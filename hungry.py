@@ -5,4 +5,5 @@ elif hungry == "N":
     thirsty = input("Are you thirsty?: Y/N")
     if thirsty == "Y":
         print("Drink Water.")
+        print("Drink Soda")
 
