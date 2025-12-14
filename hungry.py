@@ -3,4 +3,8 @@ if hungry == "Y":
     print("Hungry")
     print("eat pizza")
 elif hungry == "N":
-    print("Not hungry")
+    thirsty = input("Are you thirsty?: Y/N")
+    if thirsty == "Y":
+        print("Drink Water.")
+        print("Drink Soda")
+
